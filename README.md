@@ -1,5 +1,5 @@
 # hello-world-
 
-Hello Familly
+Hello 
 
-My name is Jose, im studying for software engineer and i also like cars, art & technology 
+My name is Jose,  
